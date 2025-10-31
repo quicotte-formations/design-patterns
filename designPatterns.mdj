@@ -1,0 +1,35 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "Design patterns",
+	"ownedElements": [
+		{
+			"_type": "UMLPackage",
+			"_id": "AAAAAAGaOY6ztkNvgJ4=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Creational Patterns",
+			"ownedElements": [
+				{
+					"_type": "UMLPackage",
+					"_id": "AAAAAAGaOY9qREN0JC4=",
+					"_parent": {
+						"$ref": "AAAAAAGaOY6ztkNvgJ4="
+					},
+					"name": "FactoryMetod",
+					"ownedElements": [
+						{
+							"_type": "UMLClassDiagram",
+							"_id": "AAAAAAGaOY/Mx0N47v8=",
+							"_parent": {
+								"$ref": "AAAAAAGaOY9qREN0JC4="
+							},
+							"name": "ClassDiagram1"
+						}
+					]
+				}
+			]
+		}
+	]
+}
